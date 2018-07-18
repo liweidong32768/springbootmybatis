@@ -1,0 +1,20 @@
+本项目为Maven项目
+
+开发工具
+
+idea 2018.1
+jdk 1.8
+maven 3.5.3
+mysql
+
+运用框架
+springboot2.0
+mybatis
+
+功能：
+热部署，mybatis-generator自动生成代码
+
+部署开发遇到问题，困难的小伙伴们，欢迎来与我交流。
+
+QQ:2684179382
+
